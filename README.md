@@ -30,3 +30,6 @@ A sample in any of the JSON files contains these three elements:
 - Content - the body of the article
 - category - clickbait/nonclickbait
 
+## 2. Citation
+
+## 3. License 
