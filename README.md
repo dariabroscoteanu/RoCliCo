@@ -8,7 +8,7 @@ The RoCliCo dataset contains 8,313 news samples which are manually annotated wit
 | Test        | 441            | 1,066           | 1,507  |
 | **Total**   | **3,720**      | **4,593**       | **8,313** |
 
-Furthermore, we conduct experiments with four machine learning methods:
+We conduct experiments with four machine learning methods:
 
 - Random Forest and SVM based on handcrafted features
 - BiLSTM
