@@ -1,4 +1,4 @@
-# A Novel Contrastive Learning Method for Clickbait Detection on RoCliCo: A Romanian Clickbait Corpus of News Articles
+# A Novel Contrastive Learning Method for Clickbait Detection on RoCliCo: A Romanian Clickbait Corpus of News Articles - EMNLP 2023 (Official Repo)
 ## 1. Description 
 ### General Information
 The RoCliCo dataset contains 8,313 news samples which are manually annotated with clickbait and non-clickbait labels. The dataset is divided into two subsets, as presented in the following table:
@@ -8,9 +8,10 @@ The RoCliCo dataset contains 8,313 news samples which are manually annotated wit
 | Test        | 441            | 1,066           | 1,507  |
 | **Total**   | **3,720**      | **4,593**       | **8,313** |
 
-We conduct experiments with four machine learning methods:
+We conduct experiments with five machine learning methods:
 
-- Random Forest and SVM based on handcrafted features
+- Random Forest based on handcrafted features
+- SVM based on handcrafted features
 - BiLSTM
 - Fine-tuned Ro-BERT
 - Contrastive Ro-BERT
@@ -27,9 +28,12 @@ The data set is divided into two archives, corresponding to the two subsets for 
 
 A sample in any of the JSON files contains these three elements:
 - title - the title of the article
-- Content - the body of the article
+- content - the body of the article
 - category - clickbait/nonclickbait
 
 ## 2. Citation
 
 ## 3. License 
+
+RoCliCo: A Romanian Clickbait Corpus of News Articles © 2023 by Daria-Mihaela Broscoteanu, Radu Tudor Ionescu is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
