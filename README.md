@@ -33,10 +33,11 @@ A sample in any of the JSON files contains these three elements:
 
 ## 2. Citation
 
+Please cite our papre if you use our data set or code:
 ```
 @inproceedings{ Broscoteanu-EMNLP-2023,
    title="{A Novel Contrastive Learning Method for Clickbait Detection on RoCliCo: A Romanian Clickbait Corpus of News Articles}",
-   author={Brosco\c{t}eanu, Daria-Mihaiela and Ionescu, Radu Tudor},
+   author={Brosco\c{t}eanu, Daria-Mihaela and Ionescu, Radu Tudor},
    booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
    year={2023},
    organization={ACL},
