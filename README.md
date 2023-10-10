@@ -31,7 +31,19 @@ A sample in any of the JSON files contains these three elements:
 - content - the body of the article
 - category - clickbait/nonclickbait
 
-## 2. License 
+## 2. Citation
+
+```
+@inproceedings{ Broscoteanu-EMNLP-2023,
+   title="{A Novel Contrastive Learning Method for Clickbait Detection on RoCliCo: A Romanian Clickbait Corpus of News Articles}",
+   author={Brosco\c{t}eanu, Daria-Mihaiela and Ionescu, Radu Tudor},
+   booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+   year={2023},
+   organization={ACL},
+}
+```
+
+## 3. License 
 
 RoCliCo: A Romanian Clickbait Corpus of News Articles © 2023 by Daria-Mihaela Broscoteanu, Radu Tudor Ionescu is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
