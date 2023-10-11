@@ -22,7 +22,7 @@ We also carry out experiments with a weighted voting ensemble. Among the conside
 Our contribution is twofold:
 
 - We introduce the first publicly available corpus of Romanian news articles comprising manually annotated clickbait and non-clickbait samples.
-- We propose a novel clickbait detection model based on learning a deep metric space where news titles and contents are jointly represented. In the shared embedding space, titles and contents of non-clickbait news are supposed to be neighbors, while titles and contents of clickbait news should be
+- We propose a novel clickbait detection model based on learning a deep metric space where news titles and contents are jointly represented. In the shared embedding space, titles and contents of non-clickbait news are supposed to be neighbors, while titles and contents of clickbait news should be far apart.
 
 ### Data Organization
 The data set is divided into two archives, corresponding to the two subsets for training and testing, keeping source separation between training and test. In each archive, there are three JSON files. Each file contains articles collected from only one website. 
